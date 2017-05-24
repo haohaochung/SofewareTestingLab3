@@ -1,5 +1,6 @@
+import os
 class BasePage(object):
-    pict_location = 'C:\Users\haohao\PycharmProjects\Lab3\pict'
+    pict_location = os.getcwd()+'\pict'
 
     def __init__(self, driver):
         self.driver = driver

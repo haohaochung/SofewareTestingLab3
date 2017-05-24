@@ -25,5 +25,5 @@ class FriendPage(BasePage.BasePage):
         return self.isFollowed
 
     def unfollow_friend(self):
-        self.follower = self.driver.find_element_by_xpath('//*[@id="friends"]/div[2]/div[1]/h5/a').text
-        self.driver.find_element_by_xpath('//*[@id="friends"]/div[2]/div[2]/div/div/form/button').click()
+        self.follower = self.driver.find_element_by_xpath('//*[@id="friends"]/div[1]/div[1]/h5/a').text
+        self.driver.find_element_by_xpath('//*[@id="friends"]/div[1]/div[2]/div/div/form/button').click()
