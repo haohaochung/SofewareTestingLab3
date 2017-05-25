@@ -16,13 +16,13 @@ class TestPost(unittest.TestCase):
 
     def test_1_create_post_1(self):
         self.post.create_post("I am happy", self.image+'\koala.jpg')
-        self.assertEqual("Hello", self.driver.find_element_by_xpath('//*/div[2]/span/p').text)
+        self.assertEqual("I am happy", self.driver.find_element_by_xpath('//*/div[2]/span/p').text)
         assert "koala.jpg" in self.driver.find_element_by_xpath('//*/div[2]/div[1]/img').get_attribute("src")
         self.post.delete_post()
 
     def test_1_create_post_2(self):
         self.post.create_post("@@#$%", self.image + '\giphy.gif')
-        self.assertEqual("Hello", self.driver.find_element_by_xpath('//*/div[2]/span/p').text)
+        self.assertEqual("@@#$%", self.driver.find_element_by_xpath('//*/div[2]/span/p').text)
         assert "giphy.gif" in self.driver.find_element_by_xpath('//*/div[2]/div[1]/img').get_attribute("src")
         self.post.delete_post()
 

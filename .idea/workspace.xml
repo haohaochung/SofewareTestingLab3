@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8988d3c1-a1c3-401c-9735-7854393c6c48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Lab3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasePage.py" afterPath="$PROJECT_DIR$/BasePage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FriendPage.py" afterPath="$PROJECT_DIR$/FriendPage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProfilePage.py" afterPath="$PROJECT_DIR$/ProfilePage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestEvent.py" afterPath="$PROJECT_DIR$/TestEvent.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Report.html" afterPath="$PROJECT_DIR$/Report.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestPost.py" afterPath="$PROJECT_DIR$/TestPost.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestProfile.py" afterPath="$PROJECT_DIR$/TestProfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_RunAll.py" afterPath="$PROJECT_DIR$/Test_RunAll.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +23,7 @@
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_1_upload_avatar.coverage" NAME="Unittests for TestProfile.TestProfile.test_1_upload_avatar Coverage Results" MODIFIED="1495440172302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_2_edit_profile_1.coverage" NAME="Unittests for TestProfile.TestProfile.test_2_edit_profile_1 Coverage Results" MODIFIED="1495612061414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestPost_test_2_edit_post.coverage" NAME="Unittests for TestPost.TestPost.test_2_edit_post Coverage Results" MODIFIED="1495531375192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Lab3$Test_RunAll.coverage" NAME="Test_RunAll Coverage Results" MODIFIED="1495599573713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab3$Test_RunAll.coverage" NAME="Test_RunAll Coverage Results" MODIFIED="1495614438863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestEvent_TestEvent_test_3_comment_event_2.coverage" NAME="Unittests for TestEvent.TestEvent.test_3_comment_event_2 Coverage Results" MODIFIED="1495607911121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_in_testCreatePost_py.coverage" NAME="Unittests in testCreatePost.py Coverage Results" MODIFIED="1495435532404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_2_edit_profile.coverage" NAME="Unittests for TestProfile.TestProfile.test_2_edit_profile Coverage Results" MODIFIED="1495532507144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,16 +52,16 @@
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestPost_test_1_create_post.coverage" NAME="Unittests for TestPost.TestPost.test_1_create_post Coverage Results" MODIFIED="1495531170290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$MainPage.coverage" NAME="MainPage Coverage Results" MODIFIED="1495429200865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestFriend_TestFriend_test_2_unfollow_friend.coverage" NAME="Unittests for TestFriend.TestFriend.test_2_unfollow_friend Coverage Results" MODIFIED="1495598417891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestPost.coverage" NAME="Unittests for TestPost.TestPost Coverage Results" MODIFIED="1495597813027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestPost.coverage" NAME="Unittests for TestPost.TestPost Coverage Results" MODIFIED="1495614267069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestEvent_TestEvent.coverage" NAME="Unittests for TestEvent.TestEvent Coverage Results" MODIFIED="1495531767233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestCreatePost_test_2_edit_post.coverage" NAME="Unittests for TestPost.TestCreatePost.test_2_edit_post Coverage Results" MODIFIED="1495435861922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_setUp.coverage" NAME="Unittests for TestProfile.TestProfile.setUp Coverage Results" MODIFIED="1495439995079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestCreatePost_test_4_like_post.coverage" NAME="Unittests for TestPost.TestCreatePost.test_4_like_post Coverage Results" MODIFIED="1495436215347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile.coverage" NAME="Unittests for TestProfile.TestProfile Coverage Results" MODIFIED="1495439976230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_4.coverage" NAME="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4 Coverage Results" MODIFIED="1495612389901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_4.coverage" NAME="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4 Coverage Results" MODIFIED="1495613237953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_2_edit_profile_2.coverage" NAME="Unittests for TestProfile.TestProfile.test_2_edit_profile_2 Coverage Results" MODIFIED="1495612111599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestCreatePost_setUp.coverage" NAME="Unittests for TestPost.TestCreatePost.setUp Coverage Results" MODIFIED="1495435536004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_3.coverage" NAME="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3 Coverage Results" MODIFIED="1495611600384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_3.coverage" NAME="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3 Coverage Results" MODIFIED="1495612869118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestFriend_TestFriend_test_1_follow_friend.coverage" NAME="Unittests for TestFriend.TestFriend.test_1_follow_friend Coverage Results" MODIFIED="1495598232495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_TestPost_TestPost_test_1_create_post_4.coverage" NAME="Unittests for TestPost.TestPost.test_1_create_post_4 Coverage Results" MODIFIED="1495611000921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lab3$Unittests_for_testCreatePost_TestCreatePost.coverage" NAME="Unittests for testCreatePost.TestCreatePost Coverage Results" MODIFIED="1495429299081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -82,8 +76,8 @@
       <file leaf-file-name="TestPost.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestPost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
-              <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -94,21 +88,9 @@
       <file leaf-file-name="TestFriend.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestFriend.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostPage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PostPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -116,21 +98,31 @@
       <file leaf-file-name="ProfilePage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProfilePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="228">
               <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestProfile.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestProfile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestProfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="30" column="111" lean-forward="true" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
+            <state relative-caret-position="312">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,11 +137,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestEvent.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestEvent.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestEvent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="929">
+              <caret line="56" column="76" lean-forward="false" selection-start-line="56" selection-start-column="76" selection-end-line="56" selection-end-column="76" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -160,20 +162,8 @@
       <file leaf-file-name="Test_RunAll.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test_RunAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FriendPage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FriendPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="228">
+              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -225,12 +215,12 @@
         <option value="$PROJECT_DIR$/PostPage.py" />
         <option value="$PROJECT_DIR$/EventPage.py" />
         <option value="$PROJECT_DIR$/BasePage.py" />
-        <option value="$PROJECT_DIR$/Test_RunAll.py" />
         <option value="$PROJECT_DIR$/FriendPage.py" />
         <option value="$PROJECT_DIR$/TestEvent.py" />
-        <option value="$PROJECT_DIR$/TestPost.py" />
-        <option value="$PROJECT_DIR$/TestProfile.py" />
         <option value="$PROJECT_DIR$/ProfilePage.py" />
+        <option value="$PROJECT_DIR$/TestProfile.py" />
+        <option value="$PROJECT_DIR$/Test_RunAll.py" />
+        <option value="$PROJECT_DIR$/TestPost.py" />
       </list>
     </option>
   </component>
@@ -241,10 +231,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1380" />
-    <option name="height" value="744" />
+    <option name="x" value="-1928" />
+    <option name="y" value="34" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -295,23 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4">
-    <configuration default="false" name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lab3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestProfile.TestProfile.test_1_upload_avatar_and_cover_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Test_RunAll">
     <configuration default="false" name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,22 +299,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;TestProfile.TestProfile.test_1_upload_avatar_and_cover_3&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests for TestProfile.TestProfile.test_2_edit_profile_1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lab3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestProfile.TestProfile.test_2_edit_profile_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -373,6 +331,41 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;TestProfile.TestProfile.test_1_upload_avatar_and_cover_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test_RunAll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_RunAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for TestPost.TestPost" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestPost.TestPost&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -525,19 +518,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_2" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_2_edit_profile_1" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_2_edit_profile_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_2_edit_profile_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Test_RunAll" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for TestPost.TestPost" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_2_edit_profile_2" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_2_edit_profile_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Test_RunAll" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for TestPost.TestPost" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for TestProfile.TestProfile.test_2_edit_profile_2" />
       </list>
     </recent_temporary>
   </component>
@@ -555,17 +548,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_TestPost_TestPost_test_1_create_post_3 - 2017.05.24 at 15h 27m 54s.xml">
-      <configuration name="Unittests for TestPost.TestPost.test_1_create_post_3" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestPost_TestPost_test_1_create_post_3 - 2017.05.24 at 15h 28m 43s.xml">
-      <configuration name="Unittests for TestPost.TestPost.test_1_create_post_3" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestPost_TestPost_test_1_create_post_4 - 2017.05.24 at 15h 30m 18s.xml">
-      <configuration name="Unittests for TestPost.TestPost.test_1_create_post_4" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_TestPost_TestPost_test_3_comment_post_2 - 2017.05.24 at 15h 36m 35s.xml">
-      <configuration name="Unittests for TestPost.TestPost.test_3_comment_post_2" configurationId="tests" />
+    <history-entry file="Unittests_for_TestPost_TestPost - 2017.05.24 at 16h 26m 56s.xml">
+      <configuration name="Unittests for TestPost.TestPost" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_2 - 2017.05.24 at 15h 39m 55s.xml">
       <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_2" configurationId="tests" />
@@ -573,10 +557,19 @@
     <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_3 - 2017.05.24 at 15h 40m 17s.xml">
       <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_3 - 2017.05.24 at 16h 01m 28s.xml">
+      <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_3" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_4 - 2017.05.24 at 15h 52m 08s.xml">
       <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_4 - 2017.05.24 at 15h 53m 32s.xml">
+      <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_4 - 2017.05.24 at 16h 02m 14s.xml">
+      <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestProfile_TestProfile_test_1_upload_avatar_and_cover_4 - 2017.05.24 at 16h 07m 30s.xml">
       <configuration name="Unittests for TestProfile.TestProfile.test_1_upload_avatar_and_cover_4" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_TestProfile_TestProfile_test_2_edit_profile_1 - 2017.05.24 at 15h 48m 11s.xml">
@@ -587,16 +580,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
+    <frame x="-1928" y="34" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21480939" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15260416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35804418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -666,7 +659,7 @@
         <state relative-caret-position="361">
           <caret line="20" column="58" lean-forward="true" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -739,20 +732,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PostPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -761,32 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="82" column="71" lean-forward="true" selection-start-line="82" selection-start-column="71" selection-end-line="82" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFriend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_RunAll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -803,10 +762,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestEvent.py">
+    <entry file="file://$PROJECT_DIR$/LoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfilePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFriend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="82" column="71" lean-forward="true" selection-start-line="82" selection-start-column="71" selection-end-line="82" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_RunAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -815,26 +824,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestPost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProfilePage.py">
+    <entry file="file://$PROJECT_DIR$/TestEvent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestProfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="30" column="111" lean-forward="true" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
+        <state relative-caret-position="929">
+          <caret line="56" column="76" lean-forward="false" selection-start-line="56" selection-start-column="76" selection-end-line="56" selection-end-column="76" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -16,9 +16,9 @@ if __name__ == '__main__':
     # create a test suite
     test_suite = unittest.TestSuite()
     test_suite.addTests(tests_event)
-    test_suite.addTests(tests_friends)
     test_suite.addTests(tests_post)
     test_suite.addTests(tests_profile)
+    test_suite.addTests(tests_friends)
 
     with open('Report.html', 'w') as f:
         runner = HTMLTestRunner(stream=f,

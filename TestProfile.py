@@ -30,12 +30,6 @@ class TestProfile(unittest.TestCase):
         assert "giphy.gif" in self.driver.find_element_by_xpath('//*[@id="user-info"]/div[1]/a/img').get_attribute("src")
         assert "giphy.gif" in self.driver.find_element_by_xpath('/html/body/div/div[1]').get_attribute("style")
 
-    def test_1_upload_avatar_and_cover_4(self):
-        self.profile.upload_avatar_and_cover('', '')
-        assert "" in self.driver.find_element_by_xpath('//*[@id="user-info"]/div[1]/a/img').get_attribute(
-            "src")
-        assert "" in self.driver.find_element_by_xpath('/html/body/div/div[1]').get_attribute("style")
-
     def test_2_edit_profile_1(self):
         self.profile.edit_profile("105598031","I am haohao", "Taipei", "0912345678", "1994/07/02")
         self.assertEqual("105598031", self.driver.find_element_by_xpath('//*[@id="user-info"]/div[1]/h5/a').text)
